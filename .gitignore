@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Base de dados com informações pessoais
+data/
+*.csv
+*.xlsx
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos locais
+.env
