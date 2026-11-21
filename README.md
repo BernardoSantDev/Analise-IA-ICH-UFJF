@@ -63,6 +63,30 @@ Segunda etapa, dedicada à produção e à interpretação dos resultados:
 
 Os gráficos gerados nos notebooks permitem consultar as distribuições de respostas, comparar categorias e observar diferenças descritivas entre grupos. As visualizações estão organizadas por temas, como perfil, pesquisa, departamentos, ensino, gestão e sigilo e política institucional.
 
+### Galeria de gráficos — painéis compilados
+
+Para facilitar a consulta aos resultados, os gráficos também foram reunidos em **três painéis visuais**. Cada painel apresenta várias visualizações lado a lado, preservando títulos, legendas e bases de cálculo para apoiar a leitura comparativa. Clique na imagem para abri-la em tamanho maior no GitHub.
+
+#### Painel 1 — Familiaridade, departamentos e cruzamentos
+
+[![Painel 1: familiaridade com IA, atividades na pesquisa e ensino, riscos e comparações entre departamentos](resultados/graficos/figura_celula_170_2.png)](resultados/graficos/figura_celula_170_2.png)
+
+Reúne cruzamentos da familiaridade com IA com atividades de pesquisa, orientações e práticas de ensino, riscos de gestão, sigilo e distribuição por departamentos.
+
+#### Painel 2 — Pesquisa, ensino, riscos e propostas institucionais
+
+[![Painel 2: uso da IA na pesquisa, benefícios, riscos, orientações docentes e propostas institucionais](resultados/graficos/figura_celula_170_4.png)](resultados/graficos/figura_celula_170_4.png)
+
+Apresenta as análises gerais sobre uso da IA na pesquisa, benefícios, riscos, orientações no ensino, sigilo, propostas para uso ético e contribuições para uma política institucional.
+
+#### Painel 3 — Perfil e considerações adicionais
+
+[![Painel 3: perfil dos participantes e outros tópicos sobre inteligência artificial](resultados/graficos/figura_celula_170_6.png)](resultados/graficos/figura_celula_170_6.png)
+
+Complementa a visão geral com o perfil dos participantes e os tópicos adicionais apontados no questionário.
+
+> **Nota metodológica:** os painéis são compilações visuais dos gráficos, não novas análises. As porcentagens podem utilizar bases diferentes conforme a pergunta, e categorias de respostas múltiplas não necessariamente somam 100%. Para ver cada gráfico em separado, consulte os demais arquivos da pasta `graficos/`.
+
 ## Metodologia e tratamento dos dados
 
 A análise parte das respostas ao formulário consultivo. A base original continha **72 registros e 18 colunas**. Após a identificação e a exclusão de **uma submissão de teste**, permaneceram **71 respostas válidas**.
